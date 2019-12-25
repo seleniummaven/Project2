@@ -1,1 +1,7 @@
-this is a demo file for git repo.
+This is a demo file for git repo.
+Git clone "path"
+move into git repo created  folder like cd " "
+git add .
+git commit -m ""
+git push
+
