@@ -9,3 +9,17 @@ git push
 
 git pull
 
+gti branch child
+git checkout child
+git push --set-upstream origin child
+git add .
+git commit -m ""
+git push
+
+git merge master
+git push
+
+git checkout master
+git branch --no-merged
+git branch --merged master
+
