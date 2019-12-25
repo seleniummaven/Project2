@@ -1,4 +1,6 @@
 This is a demo file for git repo.
+make one folder for git where you want to work for pull an push code
+go into right click and git Base
 Git clone "path"
 move into git repo created  folder like cd " "
 git add .
